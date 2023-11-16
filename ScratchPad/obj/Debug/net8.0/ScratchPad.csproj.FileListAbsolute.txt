@@ -1,0 +1,16 @@
+C:\Projects\TDG\Repos\GitHub\DMS\ScratchPad\obj\Debug\net8.0\ScratchPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TDG\Repos\GitHub\DMS\ScratchPad\obj\Debug\net8.0\ScratchPad.AssemblyInfoInputs.cache
+C:\Projects\TDG\Repos\GitHub\DMS\ScratchPad\obj\Debug\net8.0\ScratchPad.AssemblyInfo.cs
+C:\Projects\TDG\Repos\GitHub\DMS\ScratchPad\obj\Debug\net8.0\ScratchPad.csproj.CoreCompileInputs.cache
+C:\Projects\TDG\Repos\GitHub\DMS\ScratchPad\obj\Debug\net8.0\ScratchPad.sourcelink.json
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\bin\Debug\net8.0\ScratchPad.exe
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\bin\Debug\net8.0\ScratchPad.deps.json
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\bin\Debug\net8.0\ScratchPad.runtimeconfig.json
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\bin\Debug\net8.0\ScratchPad.dll
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\bin\Debug\net8.0\ScratchPad.pdb
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\ScratchPad.dll
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\refint\ScratchPad.dll
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\ScratchPad.pdb
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\ScratchPad.genruntimeconfig.cache
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\ref\ScratchPad.dll
+C:\Projects\TDG\Repos\GitHub\DMS\scratchpad\obj\Debug\net8.0\ScratchPad.csproj.AssemblyReference.cache

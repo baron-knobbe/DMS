@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\DMS\\DMS.csproj": {}
+    "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\scratchpad\\ScratchPad.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\DMS\\DMS.csproj": {
+    "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\scratchpad\\ScratchPad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\DMS\\DMS.csproj",
-        "projectName": "DMS",
-        "projectPath": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\DMS\\DMS.csproj",
+        "projectUniqueName": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\scratchpad\\ScratchPad.csproj",
+        "projectName": "ScratchPad",
+        "projectPath": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\scratchpad\\ScratchPad.csproj",
         "packagesPath": "C:\\Users\\baron\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\DMS\\obj\\",
+        "outputPath": "C:\\Projects\\TDG\\Repos\\GitHub\\DMS\\scratchpad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MsgKit": {
+              "target": "Package",
+              "version": "[2.7.1, )"
+            },
+            "MsgReader": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MsgKit" Version="2.7.1" />
+    <PackageReference Include="MsgReader" Version="5.5.1" />
+  </ItemGroup>
+
 </Project>
